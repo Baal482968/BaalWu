@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BaalWu/static/css/main.eeb4ae37.css",
+    "main.js": "/BaalWu/static/js/main.5f9ef6f3.js",
+    "static/js/787.64646288.chunk.js": "/BaalWu/static/js/787.64646288.chunk.js",
+    "static/media/logo.svg": "/BaalWu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BaalWu/index.html",
+    "main.eeb4ae37.css.map": "/BaalWu/static/css/main.eeb4ae37.css.map",
+    "main.5f9ef6f3.js.map": "/BaalWu/static/js/main.5f9ef6f3.js.map",
+    "787.64646288.chunk.js.map": "/BaalWu/static/js/787.64646288.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeb4ae37.css",
+    "static/js/main.5f9ef6f3.js"
+  ]
+}
