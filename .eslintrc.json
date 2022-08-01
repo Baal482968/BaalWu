@@ -1,0 +1,17 @@
+{
+  "extends": [
+    "react-app",
+    "react-app/jest",
+    "airbnb",
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:react-hooks/recommended",
+    "plugin:prettier/recommended"
+  ],
+  "rules": {
+    "react/react-in-jsx-scope": 0,
+    "semi": [1, "never"],
+    "arrow-parens": [2, "as-needed"]
+  },
+  "plugins": ["react", "react-hooks", "prettier", "import"]
+}
